@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello world ! I'm Alif Zaky 👋
+
+![Sambutan hangat](img/uhuy.gif)
 
 <!--
 **Alifzaky/Alifzaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I’m currently study on **University of Muhammadiyah Malang**
+- 🌱 I’m currently learning java language
